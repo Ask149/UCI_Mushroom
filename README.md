@@ -1,2 +1,2 @@
 # UCI_Mushroom
-Naive Bayes algorithm implementation for classification
+SVM and Naive Bayes algorithm implementation for classification
